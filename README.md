@@ -45,6 +45,6 @@ npm run dev
 
 
 ## Reference Links
-[Best Practices for Identity Management](https://web.dev/identity)
-[SMS Multi-factor Auth](https://firebase.google.com/docs/auth/web/multi-factor)
-[Add Login to Your Next.js Application](https://auth0.com/docs/quickstart/webapp/nextjs)
+- [Best Practices for Identity Management](https://web.dev/identity)
+- [SMS Multi-factor Auth](https://firebase.google.com/docs/auth/web/multi-factor)
+- [Add Login to Your Next.js Application](https://auth0.com/docs/quickstart/webapp/nextjs)
