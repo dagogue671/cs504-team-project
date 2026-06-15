@@ -1,5 +1,5 @@
 # CS504-Team-Project
-Team Project for CS504
+Team Project for CS504 CityU Seattle
 
 ## Authors
 David Gogue
