@@ -3,7 +3,9 @@ Team Project for CS504
 
 ## Authors
 David Gogue
+
 Lanxi Luo
+
 Sumeet Singh
 
 ## Project Description: A Multi-Factor Authentication System  
